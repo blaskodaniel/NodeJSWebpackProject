@@ -1,0 +1,5 @@
+INDÍTÁS:
+npm start -s
+npm run build -s
+
+npm install nsp -g
